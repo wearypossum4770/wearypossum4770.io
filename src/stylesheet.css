@@ -1,7 +1,7 @@
 @font-face{
 font-family:"Tangerine";
 /*src: url("file:///media/fuse/crostini_050e61e3bbb300ff4fa6673b1b748fbf15631708_termina_penguin/github_pages/wearypossum4770.io/src/fonts/Tangerine-Bold.ttf") format("truetype");*/
-src:  url('/fonts/Tangerine-Bold.ttf') format("truetype");
+src:  url('https://github.com/wearypossum4770/wearypossum4770.io/src/fonts/Tangerine-Bold.ttf') format("truetype");
   font-weight:bold;
 }
 .w3-tangerine {font:italic bold 40px "Tangerine", serif;}
