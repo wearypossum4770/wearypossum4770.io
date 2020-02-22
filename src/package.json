@@ -1,0 +1,23 @@
+{
+  "name": "github_pages",
+  "version": "1.0.0",
+  "description": "Stephen's Learning Page",
+  "main": "test_web_script.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearypossum4770/wearypossum4770.io.git"
+  },
+  "keywords": [
+    "wearypossum4770",
+    "dev"
+  ],
+  "author": "stephen smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wearypossum4770/wearypossum4770.io/issues"
+  },
+  "homepage": "https://github.com/wearypossum4770/wearypossum4770.io#readme"
+}
