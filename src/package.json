@@ -4,7 +4,8 @@
   "description": "Stephen's Learning Page",
   "main": "test_web_script.test.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "deploy": "gh-pages -d docs"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/wearypossum4770/wearypossum4770.io/issues"
   },
-  "homepage": "https://github.com/wearypossum4770/wearypossum4770.io#readme"
+  "homepage": "https://wearypossum4770.github.io/wearypossum4770.io/"
 }
