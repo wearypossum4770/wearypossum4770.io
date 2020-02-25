@@ -1,31 +1,24 @@
 {
-  "name": "wearypossum.io",
+  "name": "github_pages",
   "version": "1.0.0",
-  "description": "website build",
-  "main": "web_script.js",
-  "dependencies": {
-    "gh-pages": "^2.2.0",
-    "jest": "^25.1.0"
-  },
-  "devDependencies": {},
+  "description": "Stephen's Learning Page",
+  "main": "test_web_script.test.js",
   "scripts": {
     "test": "jest",
-"deploy": "gh-pages -d docs" 
- },
+    "deploy": "gh-pages -d docs"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wearypossum4770/wearypossum4770.io.git"
   },
   "keywords": [
     "wearypossum4770",
-    "dev",
-    "full-stack",
-    "front-end"
+    "dev"
   ],
   "author": "stephen smith",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wearypossum4770/wearypossum4770.io/issues"
   },
-  "homepage": "https://wearypossum4770.github.io/wearypossum4770.io/#index"
+  "homepage": "https://wearypossum4770.github.io/wearypossum4770.io/"
 }
