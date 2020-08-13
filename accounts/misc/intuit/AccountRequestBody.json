@@ -1,0 +1,20 @@
+{
+    "FullyQualifiedName": "Accounts Payable (A/P)",
+    "domain": "QBO",
+    "SubAccount": false,
+    "Description": "Description added during update.",
+    "Classification": "Liability",
+    "AccountSubType": "AccountsPayable",
+    "CurrentBalanceWithSubAccounts": -1091.23,
+    "sparse": false,
+    "MetaData": {
+        "CreateTime": "2014-09-12T10:12:02-07:00",
+        "LastUpdatedTime": "2015-06-30T15:09:07-07:00"
+    },
+    "AccountType": "Accounts Payable",
+    "CurrentBalance": -1091.23,
+    "Active": true,
+    "SyncToken": "0",
+    "Id": "33",
+    "Name": "Accounts Payable (A/P)"
+}

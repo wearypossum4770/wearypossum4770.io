@@ -1,0 +1,23 @@
+Scenario: issue customer loan
+Given a customer purchase of 1000 usd.
+When a "initial journal" entry is made
+Then 
+
+Scenario Outline: something
+Given a customer purchase of {int} usd.
+When a {string} entry is made
+Then 
+
+Given a customer purchase of 1,000 usd.
+payment in full received in 10 days.
+customer takes 2 percent discount
+full payment of 1000
+is due in 30 days.
+
+  Scenario Outline: much more complex stuff
+
+Given a customer purchase of {int} usd.
+payment in full received in {int} days.
+customer takes {int} percent discount
+full payment of {int}
+is due in {int} days.

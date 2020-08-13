@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+cuid = "*"
+pytest = "*"
+coverage = "*"
+pytest-cov = "*"
+pytest-django = "*"
+behave = "*"
+behave-django = "*"
+poetry = "*"
+isort = "*"
+djangorestframework = "*"
+django-heroku = "*"
+psycopg2 = "*"
+gunicorn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

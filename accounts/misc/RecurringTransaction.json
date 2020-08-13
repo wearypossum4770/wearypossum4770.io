@@ -1,0 +1,72 @@
+{
+    "QueryResponse": {
+        "startPosition": 1,
+        "maxResults": 1,
+        "RecurringTransaction": [
+            {
+                "Bill": {
+                    "SyncToken": "0",
+                    "domain": "QBO",
+                    "RecurringInfo": {
+                        "Active": true,
+                        "RecurType": "Automated",
+                        "ScheduleInfo": {
+                            "NumInterval": 1,
+                            "NextDate": "2020-08-01",
+                            "DayOfMonth": 1,
+                            "PreviousDate": "2020-07-01",
+                            "IntervalType": "Monthly"
+                        },
+                        "Name": "Telephone Bill"
+                    },
+                    "RecurDataRef": {
+                        "value": "2"
+                    },
+                    "CurrencyRef": {
+                        "name": "United States Dollar",
+                        "value": "USD"
+                    },
+                    "TotalAmt": 74.36,
+                    "APAccountRef": {
+                        "name": "Name_01ff6",
+                        "value": "33"
+                    },
+                    "Id": "20",
+                    "sparse": false,
+                    "VendorRef": {
+                        "name": "Cal Telephone",
+                        "value": "32"
+                    },
+                    "Line": [
+                        {
+                            "Description": "Monthly Phone Bill",
+                            "DetailType": "AccountBasedExpenseLineDetail",
+                            "LineNum": 1,
+                            "Amount": 74.36,
+                            "Id": "1",
+                            "AccountBasedExpenseLineDetail": {
+                                "TaxCodeRef": {
+                                    "value": "NON"
+                                },
+                                "AccountRef": {
+                                    "name": "Utilities:Telephone",
+                                    "value": "77"
+                                },
+                                "BillableStatus": "NotBillable"
+                            }
+                        }
+                    ],
+                    "Balance": 74.36,
+                    "SalesTermRef": {
+                        "value": "3"
+                    },
+                    "MetaData": {
+                        "CreateTime": "2019-02-17T15:27:25-08:00",
+                        "LastUpdatedTime": "2020-07-05T01:19:13-07:00"
+                    }
+                }
+            }
+        ]
+    },
+    "time": "2020-07-09T10:18:02.049-07:00"
+}

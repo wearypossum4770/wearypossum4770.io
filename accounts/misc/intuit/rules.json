@@ -1,0 +1,21 @@
+{
+    "allowed_files": {
+        "ai": "application/postscript",
+        "csv": "text/csv",
+        "doc": "application/msword",
+        "docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "eps": "application/postscript",
+        "gif": "image/gif",
+        "jpeg": "image/jpeg",
+        "jpg": "image/jpg",
+        "ods": "application/vnd.oasis.opendocument.spreadsheet",
+        "pdf": "application/pdf",
+        "png": "image/png",
+        "rtf": "text/rtf",
+        "tif": "image/tif",
+        "txt": "text/plain",
+        "xls": "application/vnd/ms-excel",
+        "xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "xml": "text/xml"
+    }
+}

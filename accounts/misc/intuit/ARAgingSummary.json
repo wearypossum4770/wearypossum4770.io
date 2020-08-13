@@ -1,0 +1,112 @@
+{
+    "Header": {
+        "Customer": "4",
+        "ReportName": "AgedReceivables",
+        "Option": [
+            {
+                "Name": "report_date",
+                "Value": "2015-12-31"
+            },
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ],
+        "DateMacro": "last calendar year",
+        "StartPeriod": "2015-01-01",
+        "Currency": "USD",
+        "EndPeriod": "2015-12-31",
+        "Time": "2016-03-09T09:09:52-08:00"
+    },
+    "Rows": {
+        "Row": [
+            {
+                "ColData": [
+                    {
+                        "id": "4",
+                        "value": "Jane Litigious"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "37.50"
+                    },
+                    {
+                        "value": "37.50"
+                    }
+                ]
+            },
+            {
+                "group": "GrandTotal",
+                "type": "Section",
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "TOTAL"
+                        },
+                        {
+                            "value": "0.00"
+                        },
+                        {
+                            "value": "0.00"
+                        },
+                        {
+                            "value": "0.00"
+                        },
+                        {
+                            "value": "0.00"
+                        },
+                        {
+                            "value": "37.50"
+                        },
+                        {
+                            "value": "37.50"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColType": "Customer",
+                "ColTitle": ""
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "Current"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "1 - 30"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "31 - 60"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "61 - 90"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "91 and over"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "Total"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "current_assets": {
+        "cash": {
+            "account_balance": 15000,
+            "summatioin_direction": "add"
+        },
+
+        "accounts_recievables": {
+            "account_balance": 150000,
+            "normal_balance": true
+        },
+        "allowance_for_doubtful_accounts": {
+            "account_balance": 10000,
+            "summatioin_direction": "subtract"
+        }
+    }
+}

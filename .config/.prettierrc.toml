@@ -1,0 +1,32 @@
+# .prettierrc.toml
+trailingComma = "es5"
+tabWidth = 4
+semi = false
+singleQuote = true
+quoteProps = "consistent"
+jsxSingleQuote=true
+bracketSpacing=false
+jsxBracketSameLine=false
+arrowParens = "avoid"
+
+# Require Pragma
+# When TRUE: Prettier can restrict itself to only format files that contain a 
+# special comment, called a pragma, at the top of the file. This is 
+# very useful when gradually transitioning large, unformatted codebases 
+# to prettier. Add the following as the file's first comment.
+# /***@prettier*/ or /***@format*/
+requirePragma = false
+
+# Insert Pragma
+# When TRUE: Prettier can insert a special @format marker at the top of files 
+# specifying that the file has been formatted with prettier.  If there 
+# is already a docblock at the top of the file then this option will 
+# add a newline to it with the @format marker.
+insertPragma=false
+
+#Prose Wrap
+# By default, Prettier will wrap markdown text as-is since some services 
+# use a linebreak-sensitive renderer, e.g. GitHub comment and BitBucket. 
+# In some cases you may want to rely on editor/viewer soft wrapping 
+# instead, so this option allows you to opt out with "never".
+proseWrap = "never"

@@ -1,0 +1,137 @@
+{
+    "sales": {
+        "net_sales": null,
+        "sub_accounts": [
+            {
+                "account_name": "Sales Revenue",
+                "account_balance": 3053081
+            },
+            {
+                "account_name": "Sales Discounts",
+                "account_balance": -24241
+            },
+            {
+                "account_name": "Sales Returns and Allowances",
+                "account_balance": -56427
+            }
+        ],
+        "sub_accounts_balance": null,
+        "cost_of_goods_sold": 1982541,
+        "gross_profit": 989872
+    },
+    "operating_expenses": {
+        "selling_expenses": {
+            "sub_accounts": [
+                {
+                    "account_name": "Sales Salaries and Commissions",
+                    "account_balance": 202644
+                },
+                {
+                    "account_name": "Sales Office Salaries",
+                    "account_balance": 59200
+                },
+                {
+                    "account_name": "Travel and Entertainment",
+                    "account_balance": 48940
+                },
+                {
+                    "account_name": "Advertising Expense",
+                    "account_balance": 38315
+                },
+                {
+                    "account_name": "Delivery Expense",
+                    "account_balance": 41209
+                },
+                {
+                    "account_name": "Shipping Supplies and Expense",
+                    "account_balance": 24712
+                },
+                {
+                    "account_name": "Postage and Stationary",
+                    "account_balance": 16788
+                },
+                {
+                    "account_name": "Telephone and Internet Expense",
+                    "account_balance": 12215
+                },
+                {
+                    "account_name": "Depreciation Expenses",
+                    "account_balance": 9005
+                }
+            ],
+            "sub_accounts_balance": null,
+            "net_operating_expenses": null
+        },
+        "administrative_expenses": {
+            "sub_accounts": [
+                {
+                    "account_name": "Officers' Salaries",
+                    "account_balance": 9005
+                },
+                {
+                    "account_name": "Office Salaries",
+                    "account_balance": 61200
+                },
+                {
+                    "account_name": "Legal and Professional Services",
+                    "account_balance": 23721
+                },
+                {
+                    "account_name": "Utilities Expense",
+                    "account_balance": 23275
+                },
+                {
+                    "account_name": "Insurance Expenses",
+                    "account_balance": 17029
+                },
+                {
+                    "account_name": "Depreciation Expense (Building)",
+                    "account_balance": 18059
+                },
+                {
+                    "account_name": "Depreciation Expense (Office Equipment)",
+                    "account_balance": 16000
+                },
+                {
+                    "account_name": "Stationery, Supplies, and Postage Expenses",
+                    "account_balance": 2875
+                },
+                {
+                    "account_name": "Miscellaneous Office Expenses",
+                    "account_balance": 2612
+                }
+            ],
+            "sub_accounts_balance": null,
+            "net_administrative_expenses": null
+        },
+        "other_revenues_and_gains": {
+            "sub_accounts": [
+                {
+                    "account_name": "Rent Revenue",
+                    "account_balance": 72910
+                },
+                {
+                    "account_name": "Dividend Revenue",
+                    "account_balance": 98500
+                }
+            ],
+            "sub_accounts_balance": null,
+            "net_other_revenue_and_gains": null
+        },
+        "other_expenses_and_losses": {
+            "sub_accounts": [
+                {
+                    "account_name": "Interest on Bonds and Notes",
+                    "account_balance": 126060
+                }
+            ],
+            "sub_accounts_balance": null,
+            "net_other_expenses_and_losses": null
+        },
+
+        "income_before_income_tax": 231423,
+        "income_tax": 66934,
+        "net_income_for_the_year": null,
+        "earnings_per_common_share": null
+    }
+}

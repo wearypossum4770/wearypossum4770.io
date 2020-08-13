@@ -1,0 +1,5 @@
+new_list_price
+trade_in_allowance_used_machine
+cash_payment_due
+fiar_value_used_machine
+cost_new_machine

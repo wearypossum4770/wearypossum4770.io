@@ -1,0 +1,260 @@
+{
+    "Header": {
+        "ReportName": "AccountList",
+        "Currency": "USD",
+        "Option": [
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ],
+        "Time": "2016-03-08T11:56:36-08:00"
+    },
+    "Rows": {
+        "Row": [
+            {
+                "ColData": [
+                    {
+                        "value": "Billable Expense Income"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Design income"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Discounts given"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Fees Billed"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Job Materials"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Job Materials:Decks and Patios"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Job Materials:Fountains and Garden Lighting"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Job Materials:Plants and Soil"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Job Materials:Sprinklers and Drip Systems"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Labor"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Labor:Installation"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Landscaping Services:Labor:Maintenance and Repair"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Other Income"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Pest Control Services"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Refunds-Allowances"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Sales of Product Income"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Services"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Shipping Income"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Unapplied Cash Payment Income"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            },
+            {
+                "ColData": [
+                    {
+                        "value": "Uncategorized Income"
+                    },
+                    {
+                        "value": "Income"
+                    }
+                ],
+                "type": "Data"
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColType": "account_name",
+                "ColTitle": "Account"
+            },
+            {
+                "ColType": "account_type",
+                "ColTitle": "Type"
+            }
+        ]
+    }
+}

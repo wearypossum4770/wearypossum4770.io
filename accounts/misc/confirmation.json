@@ -1,0 +1,12 @@
+{
+    "confirmation_number": 61551980,
+    "payment_date": "August 10, 2020",
+    "balances": {
+        "current_charge": 71.0,
+        "budget_bill": 35.36,
+        "prior_balance": 87.0,
+        "amount_due": 122.64,
+        "payment_amount": 122.64,
+        "pending": 122.64
+    }
+}

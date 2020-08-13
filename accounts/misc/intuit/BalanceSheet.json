@@ -1,0 +1,650 @@
+{
+    "Header": {
+        "ReportName": "BalanceSheet",
+        "Option": [
+            {
+                "Name": "AccountingStandard",
+                "Value": "GAAP"
+            },
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ],
+        "DateMacro": "this calendar year-to-date",
+        "ReportBasis": "Accrual",
+        "StartPeriod": "2016-01-01",
+        "Currency": "USD",
+        "EndPeriod": "2016-10-31",
+        "Time": "2016-10-31T09:42:21-07:00",
+        "SummarizeColumnsBy": "Total"
+    },
+    "Rows": {
+        "Row": [
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "ASSETS"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "Current Assets"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Bank Accounts"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "id": "35",
+                                                            "value": "Checking"
+                                                        },
+                                                        {
+                                                            "value": "1350.55"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                },
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "id": "36",
+                                                            "value": "Savings"
+                                                        },
+                                                        {
+                                                            "value": "800.00"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "BankAccounts",
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Bank Accounts"
+                                                },
+                                                {
+                                                    "value": "2150.55"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Accounts Receivable"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "id": "84",
+                                                            "value": "Accounts Receivable (A/R)"
+                                                        },
+                                                        {
+                                                            "value": "6383.12"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "AR",
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Accounts Receivable"
+                                                },
+                                                {
+                                                    "value": "6383.12"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Other current assets"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "id": "81",
+                                                            "value": "Inventory Asset"
+                                                        },
+                                                        {
+                                                            "value": "596.25"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                },
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "id": "4",
+                                                            "value": "Undeposited Funds"
+                                                        },
+                                                        {
+                                                            "value": "2117.52"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "OtherCurrentAssets",
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Other current assets"
+                                                },
+                                                {
+                                                    "value": "2713.77"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "type": "Section",
+                            "group": "CurrentAssets",
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total Current Assets"
+                                    },
+                                    {
+                                        "value": "11247.44"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "Fixed Assets"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "id": "37",
+                                                    "value": "Truck"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "id": "38",
+                                                            "value": "Original Cost"
+                                                        },
+                                                        {
+                                                            "value": "13495.00"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Truck"
+                                                },
+                                                {
+                                                    "value": "13495.00"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "type": "Section",
+                            "group": "FixedAssets",
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total Fixed Assets"
+                                    },
+                                    {
+                                        "value": "13495.00"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "TotalAssets",
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "TOTAL ASSETS"
+                        },
+                        {
+                            "value": "24742.44"
+                        }
+                    ]
+                }
+            },
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "LIABILITIES AND EQUITY"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "Liabilities"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Current Liabilities"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Accounts Payable"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "id": "33",
+                                                                        "value": "Accounts Payable (A/P)"
+                                                                    },
+                                                                    {
+                                                                        "value": "1984.17"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section",
+                                                    "group": "AP",
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total Accounts Payable"
+                                                            },
+                                                            {
+                                                                "value": "1984.17"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Credit Cards"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "id": "41",
+                                                                        "value": "Mastercard"
+                                                                    },
+                                                                    {
+                                                                        "value": "157.72"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section",
+                                                    "group": "CreditCards",
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total Credit Cards"
+                                                            },
+                                                            {
+                                                                "value": "157.72"
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "Header": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Other Current Liabilities"
+                                                            },
+                                                            {
+                                                                "value": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    "Rows": {
+                                                        "Row": [
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "id": "89",
+                                                                        "value": "Arizona Dept. of Revenue Payable"
+                                                                    },
+                                                                    {
+                                                                        "value": "4.55"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            },
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "id": "90",
+                                                                        "value": "Board of Equalization Payable"
+                                                                    },
+                                                                    {
+                                                                        "value": "401.98"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            },
+                                                            {
+                                                                "ColData": [
+                                                                    {
+                                                                        "id": "43",
+                                                                        "value": "Loan Payable"
+                                                                    },
+                                                                    {
+                                                                        "value": "4000.00"
+                                                                    }
+                                                                ],
+                                                                "type": "Data"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "type": "Section",
+                                                    "group": "OtherCurrentLiabilities",
+                                                    "Summary": {
+                                                        "ColData": [
+                                                            {
+                                                                "value": "Total Other Current Liabilities"
+                                                            },
+                                                            {
+                                                                "value": "4406.53"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "CurrentLiabilities",
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Current Liabilities"
+                                                },
+                                                {
+                                                    "value": "6548.42"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "Header": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Long-Term Liabilities"
+                                                },
+                                                {
+                                                    "value": ""
+                                                }
+                                            ]
+                                        },
+                                        "Rows": {
+                                            "Row": [
+                                                {
+                                                    "ColData": [
+                                                        {
+                                                            "id": "44",
+                                                            "value": "Notes Payable"
+                                                        },
+                                                        {
+                                                            "value": "25000.00"
+                                                        }
+                                                    ],
+                                                    "type": "Data"
+                                                }
+                                            ]
+                                        },
+                                        "type": "Section",
+                                        "group": "LongTermLiabilities",
+                                        "Summary": {
+                                            "ColData": [
+                                                {
+                                                    "value": "Total Long-Term Liabilities"
+                                                },
+                                                {
+                                                    "value": "25000.00"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "type": "Section",
+                            "group": "Liabilities",
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total Liabilities"
+                                    },
+                                    {
+                                        "value": "31548.42"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Header": {
+                                "ColData": [
+                                    {
+                                        "value": "Equity"
+                                    },
+                                    {
+                                        "value": ""
+                                    }
+                                ]
+                            },
+                            "Rows": {
+                                "Row": [
+                                    {
+                                        "ColData": [
+                                            {
+                                                "id": "34",
+                                                "value": "Opening Balance Equity"
+                                            },
+                                            {
+                                                "value": "-9337.50"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    },
+                                    {
+                                        "ColData": [
+                                            {
+                                                "id": "2",
+                                                "value": "Retained Earnings"
+                                            },
+                                            {
+                                                "value": "91.25"
+                                            }
+                                        ],
+                                        "type": "Data"
+                                    },
+                                    {
+                                        "ColData": [
+                                            {
+                                                "value": "Net Income"
+                                            },
+                                            {
+                                                "value": "2440.27"
+                                            }
+                                        ],
+                                        "type": "Data",
+                                        "group": "NetIncome"
+                                    }
+                                ]
+                            },
+                            "type": "Section",
+                            "group": "Equity",
+                            "Summary": {
+                                "ColData": [
+                                    {
+                                        "value": "Total Equity"
+                                    },
+                                    {
+                                        "value": "-6805.98"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "type": "Section",
+                "group": "TotalLiabilitiesAndEquity",
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "TOTAL LIABILITIES AND EQUITY"
+                        },
+                        {
+                            "value": "24742.44"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColType": "Account",
+                "ColTitle": "",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "account"
+                    }
+                ]
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "Total",
+                "MetaData": [
+                    {
+                        "Name": "ColKey",
+                        "Value": "total"
+                    }
+                ]
+            }
+        ]
+    }
+}

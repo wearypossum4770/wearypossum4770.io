@@ -1,0 +1,215 @@
+{
+    "Header": {
+        "ReportName": "AgedPayables",
+        "Option": [
+            {
+                "Name": "report_date",
+                "Value": "2016-03-08"
+            },
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ],
+        "DateMacro": "today",
+        "StartPeriod": "2016-03-08",
+        "Currency": "USD",
+        "EndPeriod": "2016-03-08",
+        "Time": "2016-03-08T16:11:49-08:00"
+    },
+    "Rows": {
+        "Row": [
+            {
+                "ColData": [
+                    {
+                        "id": "56",
+                        "value": "Bob's Burger Joint"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "-46.00"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "-46.00"
+                    }
+                ]
+            },
+            {
+                "ColData": [
+                    {
+                        "id": "31",
+                        "value": "Brosnahan Insurance Agency"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "241.23"
+                    },
+                    {
+                        "value": "241.23"
+                    }
+                ]
+            },
+            {
+                "ColData": [
+                    {
+                        "id": "36",
+                        "value": "Diego's Road Warrior Bodyshop"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "755.00"
+                    },
+                    {
+                        "value": "755.00"
+                    }
+                ]
+            },
+            {
+                "ColData": [
+                    {
+                        "id": "46",
+                        "value": "Norton Lumber and Building Materials"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "205.00"
+                    },
+                    {
+                        "value": "205.00"
+                    }
+                ]
+            },
+            {
+                "ColData": [
+                    {
+                        "id": "48",
+                        "value": "PG&E"
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": ""
+                    },
+                    {
+                        "value": "86.44"
+                    },
+                    {
+                        "value": "86.44"
+                    }
+                ]
+            },
+            {
+                "group": "GrandTotal",
+                "type": "Section",
+                "Summary": {
+                    "ColData": [
+                        {
+                            "value": "TOTAL"
+                        },
+                        {
+                            "value": "0.00"
+                        },
+                        {
+                            "value": "0.00"
+                        },
+                        {
+                            "value": "-46.00"
+                        },
+                        {
+                            "value": "0.00"
+                        },
+                        {
+                            "value": "1287.67"
+                        },
+                        {
+                            "value": "1241.67"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColType": "Vendor",
+                "ColTitle": ""
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "Current"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "1 - 30"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "31 - 60"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "61 - 90"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "91 and over"
+            },
+            {
+                "ColType": "Money",
+                "ColTitle": "Total"
+            }
+        ]
+    }
+}

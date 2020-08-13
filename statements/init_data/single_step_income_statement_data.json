@@ -1,0 +1,52 @@
+{
+    "revenues": {
+        "net_revenue": null,
+        "revenue_accounts": [
+            {
+                "account_name": "Net Sales",
+                "account_balance": 2972413
+            },
+            {
+                "account_name": "Dividend Revenue",
+                "account_balance": 98500
+            },
+            {
+                "account_name": "Rent Revenue",
+                "account_balance": 72910
+            }
+        ]
+    },
+    "expenses": {
+        "net_expense": null,
+        "expense_accounts": [
+            {
+                "account_name": "Cost of Goods Sold",
+                "account_balance": 1982541
+            },
+
+            {
+                "account_name": "Selling Expenses",
+                "account_balance": 453028
+            },
+
+            {
+                "account_name": "Administrative Expenses",
+                "account_balance": 350771
+            },
+
+            {
+                "account_name": "Interest Expenses",
+                "account_balance": 126060
+            },
+
+            {
+                "account_name": "Income Tax Expenses",
+                "account_balance": 66934
+            }
+        ]
+    },
+    "net_income": null,
+    "net_loss": null,
+    "outstanding_shares": null,
+    "earnings_per_share": 1.74
+}

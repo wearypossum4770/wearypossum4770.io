@@ -1,0 +1,36 @@
+{
+    "stockholders_equity": {
+        "stock_accounts": {
+            "preferred_stock": {
+                "account_name": "Preferred Stock",
+                "account_balance": null,
+                "shares_outstanding": null,
+                "shares_issued": 10000,
+                "shares_authorized": null,
+                "par_value": 10,
+                "cash_per_share": 12,
+                "percentage_of_par": 0
+            },
+            "common_stock": {
+                "account_name": "Common Stock",
+                "account_balane": null,
+                "share_outstanding": null,
+                "shares_issued": null,
+                "shares_authorized": null,
+                "par_value": 10,
+                "cash_per_share": 12,
+                "percentage_of_par": 0
+            },
+            "treasury_stock": {
+                "account_name": "Treasury Stock",
+                "account_balane": null,
+                "share_outstanding": null,
+                "shares_issued": null,
+                "shares_authorized": null,
+                "par_value": 10,
+                "cash_per_share": 12,
+                "percentage_of_par": 0
+            }
+        }
+    }
+}

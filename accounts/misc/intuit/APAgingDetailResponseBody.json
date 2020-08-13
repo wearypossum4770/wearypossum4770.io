@@ -1,0 +1,131 @@
+{
+    "Header": {
+        "ReportName": "AgedPayableDetail",
+        "Currency": "USD",
+        "EndPeriod": "2015-06-30",
+        "Option": [
+            {
+                "Name": "report_date",
+                "Value": "2015-06-30"
+            },
+            {
+                "Name": "NoReportData",
+                "Value": "false"
+            }
+        ],
+        "Time": "2016-03-08T14:34:28-08:00"
+    },
+    "Rows": {
+        "Row": [
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "31 - 60 days past due"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "ColData": [
+                                {
+                                    "id": "32",
+                                    "value": "Cal Telephone"
+                                },
+                                {
+                                    "value": "2015-05-24"
+                                }
+                            ],
+                            "type": "Data"
+                        }
+                    ]
+                },
+                "type": "Section"
+            },
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "Total for 31 - 60 days past due"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {},
+                "type": "Section"
+            },
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "1 - 30 days past due"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "Rows": {
+                    "Row": [
+                        {
+                            "ColData": [
+                                {
+                                    "id": "48",
+                                    "value": "PG&E"
+                                },
+                                {
+                                    "value": "2015-06-24"
+                                }
+                            ],
+                            "type": "Data"
+                        },
+                        {
+                            "ColData": [
+                                {
+                                    "id": "51",
+                                    "value": "Tim Philip Masonry"
+                                },
+                                {
+                                    "value": "2015-06-24"
+                                }
+                            ],
+                            "type": "Data"
+                        }
+                    ]
+                },
+                "type": "Section"
+            },
+            {
+                "Header": {
+                    "ColData": [
+                        {
+                            "value": "Total for 1 - 30 days past due"
+                        },
+                        {
+                            "value": ""
+                        }
+                    ]
+                },
+                "type": "Section"
+            }
+        ]
+    },
+    "Columns": {
+        "Column": [
+            {
+                "ColType": "vend_name",
+                "ColTitle": "Vendor"
+            },
+            {
+                "ColType": "due_date",
+                "ColTitle": "Due Date"
+            }
+        ]
+    }
+}

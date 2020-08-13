@@ -1,0 +1,128 @@
+{
+    "allowance_for_doubtful_accounts": {
+        "type": "asset",
+        "sub_type": "contra_asset"
+    },
+    "interest_receivable": null,
+    "petty_cash": null,
+    "accounts_receivable": null,
+    "cash_over_and_Short": null,
+    "cash": {
+        "accountid": 350,
+        "imageObject": null
+    },
+    "inventory": null,
+    "freight_in": null,
+    "freight_out": null,
+    "Land": {
+        "type": "asset",
+        "sub_type": "property_plant_equipment"
+    },
+    "interest_payable": null,
+    "assest_retirement": {
+        "accountid": 410,
+        "type": "liability",
+        "humanize": "Asset Reitrement and Environement Obligations",
+        "imageObject": null
+    },
+    "disposal_cost_obligations": {
+        "account_id": 420,
+        "humanize": "Exit or Disposal CostObligations",
+        "currency": "USD"
+    },
+    "deferred_revenue": {
+        "accountid": 430,
+        "humanize": "Deferred Revenue"
+    },
+    "commitments": {
+        "accountid": 440,
+        "humanize": "Commitments"
+    },
+    "contingencies": {
+        "humanize": "Contingencies",
+        "accountid": 450
+    },
+    "guarantees": {
+        "accountid": 460,
+        "humanize": "Guarantees"
+    },
+    "warranty": {
+        "duration_of_warranty": "in_days"
+    },
+    "accounts_payable": null,
+    "liabilities_from_equity": {
+        "accountid": 480,
+        "type": "liability",
+        "alterantename": "Distingusihing Liabilities from Equity"
+    },
+    "debt": {
+        "accountid": 470,
+        "humanize": "Debt"
+    },
+    "deferred_revenue": null,
+    "interest_revenue": null,
+    "advertising_expense": {
+        "type": "expense",
+        "sub_type": "selling_and_administrative_expense"
+    },
+    "bad_debt_expense": {
+        "type": "expense",
+        "sub_type": "selling_and_administrative_expense"
+    },
+    "interest_expense": {
+        "accountid": null,
+        "humanize": "Interest Expense",
+        "type": "expense",
+        "sub_type": "selling_and_administrative_expense"
+    },
+    "due_from_factor": null,
+    "due_to_customer": null,
+    "discount_on_notes_payable": null,
+    "discount_on_notes_receivable": null,
+    "gain_on_disposal_of_land": null,
+    "loss_on_sale_of_receivables": null,
+    "no_entry": null,
+    "owner_drawings": null,
+    "purchase_discounts": null,
+    "recourse_liability": null,
+    "notes_receivable": null,
+    "supplies": null,
+    "notes_payable": null,
+    "sales": {
+        "sales_revenue": null,
+        "sales_discounts": null,
+        "sales_discounts_forfeited": null,
+        "sales_returns_and_allowances": null,
+        "net_sales_revenue": 0
+    },
+    "service_revenue": {"net_service_revenue": null},
+    "office_expense": null,
+    "postage_expense": null,
+    "supplies_expenses": null,
+    "miscellaneous_expenses": null,
+    "unearned_sales_revenue": null,
+    "loan": {
+        "loanPrinciple": 1000,
+        "loanPaymentAmount": 0,
+        "when_recorded": 1596814920911,
+        "when_received": 1597678920000,
+        "when_recorded_local": "human_readable_datetime",
+        "when_received_local": "human_readable_datetime",
+        "downPayment": null,
+        "loanPaymentAmount": null,
+        "loanPaymentFrequency": null,
+        "numberOfLoanPayments": null,
+        "hasRecourse": true,
+        "canRenegotiate": true,
+        "requiredCollateral": null,
+        "termsOfService": "location_to_raw_text",
+        "acceptedPaymentmethods": null,
+        "domiciledLoan": "location_where_contract_was_comissioned.",
+        "loanTerm": {
+            "discount": 2,
+            "annualPercentageRate": 0,
+            "paidWithin": 10,
+            "netDue": 30
+        }
+    }
+}

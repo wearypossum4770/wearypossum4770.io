@@ -1,0 +1,454 @@
+{
+    "AED": {
+        "currency_name": "united arab emirates dirham",
+        "currency_country": "United Arab Emirates"
+    },
+    "AFN": {
+        "currency_name": "afghan afghani",
+        "currency_country": "Afghanistan"
+    },
+    "ALL": {"currency_name": "albanian lek", "currency_country": "Albania"},
+    "AMD": {"currency_name": "armenian dram", "currency_country": "Armenia"},
+    "ANG": {
+        "currency_name": "netherlands antillean guilder",
+        "currency_country": "Curaçao (CW),  Sint Maarten (SX)"
+    },
+    "AOA": {"currency_name": "angolan kwanza", "currency_country": "Angola"},
+    "ARS": {"currency_name": "argentine peso", "currency_country": "Argentina"},
+    "AUD": {
+        "currency_name": "australian dollar",
+        "currency_country": "Australia,  Christmas Island (CX),  Cocos (Keeling) Islands (CC),  Heard Island and McDonald Islands (HM),  Kiribati (KI),  Nauru (NR),  Norfolk Island (NF),  Tuvalu (TV)"
+    },
+    "AWG": {"currency_name": "aruban florin", "currency_country": "Aruba"},
+    "AZN": {
+        "currency_name": "azerbaijani manat",
+        "currency_country": "Azerbaijan"
+    },
+    "BAM": {
+        "currency_name": "bosnia and herzegovina convertible mark",
+        "currency_country": "Bosnia and Herzegovina"
+    },
+    "BBD": {"currency_name": "barbados dollar", "currency_country": "Barbados"},
+    "BDT": {
+        "currency_name": "bangladeshi taka",
+        "currency_country": "Bangladesh"
+    },
+    "BGN": {"currency_name": "bulgarian lev", "currency_country": "Bulgaria"},
+    "BHD": {"currency_name": "bahraini dinar", "currency_country": "Bahrain"},
+    "BIF": {"currency_name": "burundian franc", "currency_country": "Burundi"},
+    "BMD": {"currency_name": "bermudian dollar", "currency_country": "Bermuda"},
+    "BND": {"currency_name": "brunei dollar", "currency_country": "Brunei"},
+    "BOB": {"currency_name": "boliviano", "currency_country": "Bolivia"},
+    "BOV": {
+        "currency_name": "bolivian mvdol (funds code)",
+        "currency_country": "Bolivia"
+    },
+    "BRL": {"currency_name": "brazilian real", "currency_country": "Brazil"},
+    "BSD": {"currency_name": "bahamian dollar", "currency_country": "Bahamas"},
+    "BTN": {
+        "currency_name": "bhutanese ngultrum",
+        "currency_country": "Bhutan"
+    },
+    "BWP": {"currency_name": "botswana pula", "currency_country": "Botswana"},
+    "BYN": {"currency_name": "belarusian ruble", "currency_country": "Belarus"},
+    "BZD": {"currency_name": "belize dollar", "currency_country": "Belize"},
+    "CAD": {"currency_name": "canadian dollar", "currency_country": "Canada"},
+    "CDF": {
+        "currency_name": "congolese franc",
+        "currency_country": "Democratic Republic of the Congo"
+    },
+    "CHE": {
+        "currency_name": "wir euro (complementary currency)",
+        "currency_country": "Switzerland"
+    },
+    "CHF": {
+        "currency_name": "swiss franc",
+        "currency_country": "Switzerland,  Liechtenstein (LI)"
+    },
+    "CHW": {
+        "currency_name": "wir franc (complementary currency)",
+        "currency_country": "Switzerland"
+    },
+    "CLF": {
+        "currency_name": "unidad de fomento (funds code)",
+        "currency_country": "Chile"
+    },
+    "CLP": {"currency_name": "chilean peso", "currency_country": "Chile"},
+    "CNY": {"currency_name": "chinese yuan[8]", "currency_country": "China"},
+    "COP": {"currency_name": "colombian peso", "currency_country": "Colombia"},
+    "COU": {
+        "currency_name": "unidad de valor real (uvr) (funds code)[9]",
+        "currency_country": "Colombia"
+    },
+    "CRC": {
+        "currency_name": "costa rican colon",
+        "currency_country": "Costa Rica"
+    },
+    "CUC": {
+        "currency_name": "cuban convertible peso",
+        "currency_country": "Cuba"
+    },
+    "CUP": {"currency_name": "cuban peso", "currency_country": "Cuba"},
+    "CVE": {
+        "currency_name": "cape verdean escudo",
+        "currency_country": "Cabo Verde"
+    },
+    "CZK": {
+        "currency_name": "czech koruna",
+        "currency_country": "Czechia [10]"
+    },
+    "DJF": {
+        "currency_name": "djiboutian franc",
+        "currency_country": "Djibouti"
+    },
+    "DKK": {
+        "currency_name": "danish krone",
+        "currency_country": "Denmark,  Faroe Islands (FO),  Greenland (GL)"
+    },
+    "DOP": {
+        "currency_name": "dominican peso",
+        "currency_country": "Dominican Republic"
+    },
+    "DZD": {"currency_name": "algerian dinar", "currency_country": "Algeria"},
+    "EGP": {"currency_name": "egyptian pound", "currency_country": "Egypt"},
+    "ERN": {"currency_name": "eritrean nakfa", "currency_country": "Eritrea"},
+    "ETB": {"currency_name": "ethiopian birr", "currency_country": "Ethiopia"},
+    "EUR": {
+        "currency_name": "euro",
+        "currency_country": "Åland Islands (AX),  European Union (EU),  Andorra (AD),  Austria (AT),  Belgium (BE),  Cyprus (CY),  Estonia (EE),  Finland (FI),  France (FR),  French Southern and Antarctic Lands (TF),  Germany (DE),  Greece (GR),  Guadeloupe (GP),  Ireland (IE),  Italy (IT),  Latvia (LV),  Lithuania (LT),  Luxembourg (LU),  Malta (MT),  French Guiana (GF),  Martinique (MQ),  Mayotte (YT),  Monaco (MC),  Montenegro (ME),  Netherlands (NL),  Portugal (PT),  Réunion (RE),  Saint Barthélemy (BL),  Saint Martin (MF),  Saint Pierre and Miquelon (PM),  San Marino (SM),  Slovakia (SK),  Slovenia (SI),  Spain (ES),  Vatican City (VA)"
+    },
+    "FJD": {"currency_name": "fiji dollar", "currency_country": "Fiji"},
+    "FKP": {
+        "currency_name": "falkland islands pound",
+        "currency_country": "Falkland Islands (pegged to GBP 1:1)"
+    },
+    "GBP": {
+        "currency_name": "pound sterling",
+        "currency_country": "United Kingdom, the  Isle of Man (IM, see Manx pound),  Jersey (JE, see Jersey pound), and  Guernsey (GG, see Guernsey pound)"
+    },
+    "GEL": {"currency_name": "georgian lari", "currency_country": "Georgia"},
+    "GHS": {"currency_name": "ghanaian cedi", "currency_country": "Ghana"},
+    "GIP": {
+        "currency_name": "gibraltar pound",
+        "currency_country": "Gibraltar (pegged to GBP 1:1)"
+    },
+    "GMD": {"currency_name": "gambian dalasi", "currency_country": "Gambia"},
+    "GNF": {"currency_name": "guinean franc", "currency_country": "Guinea"},
+    "GTQ": {
+        "currency_name": "guatemalan quetzal",
+        "currency_country": "Guatemala"
+    },
+    "GYD": {"currency_name": "guyanese dollar", "currency_country": "Guyana"},
+    "HKD": {
+        "currency_name": "hong kong dollar",
+        "currency_country": "Hong Kong"
+    },
+    "HNL": {
+        "currency_name": "honduran lempira",
+        "currency_country": "Honduras"
+    },
+    "HRK": {"currency_name": "croatian kuna", "currency_country": "Croatia"},
+    "HTG": {"currency_name": "haitian gourde", "currency_country": "Haiti"},
+    "HUF": {"currency_name": "hungarian forint", "currency_country": "Hungary"},
+    "IDR": {
+        "currency_name": "indonesian rupiah",
+        "currency_country": "Indonesia"
+    },
+    "ILS": {
+        "currency_name": "israeli new shekel",
+        "currency_country": "Israel"
+    },
+    "INR": {
+        "currency_name": "indian rupee",
+        "currency_country": "India,  Bhutan"
+    },
+    "IQD": {"currency_name": "iraqi dinar", "currency_country": "Iraq"},
+    "IRR": {"currency_name": "iranian rial", "currency_country": "Iran"},
+    "ISK": {"currency_name": "icelandic króna", "currency_country": "Iceland"},
+    "JMD": {"currency_name": "jamaican dollar", "currency_country": "Jamaica"},
+    "JOD": {"currency_name": "jordanian dinar", "currency_country": "Jordan"},
+    "JPY": {"currency_name": "japanese yen", "currency_country": "Japan"},
+    "KES": {"currency_name": "kenyan shilling", "currency_country": "Kenya"},
+    "KGS": {
+        "currency_name": "kyrgyzstani som",
+        "currency_country": "Kyrgyzstan"
+    },
+    "KHR": {"currency_name": "cambodian riel", "currency_country": "Cambodia"},
+    "KMF": {"currency_name": "comoro franc", "currency_country": "Comoros"},
+    "KPW": {
+        "currency_name": "north korean won",
+        "currency_country": "North Korea"
+    },
+    "KRW": {
+        "currency_name": "south korean won",
+        "currency_country": "South Korea"
+    },
+    "KWD": {"currency_name": "kuwaiti dinar", "currency_country": "Kuwait"},
+    "KYD": {
+        "currency_name": "cayman islands dollar",
+        "currency_country": "Cayman Islands"
+    },
+    "KZT": {
+        "currency_name": "kazakhstani tenge",
+        "currency_country": "Kazakhstan"
+    },
+    "LAK": {"currency_name": "lao kip", "currency_country": "Laos"},
+    "LBP": {"currency_name": "lebanese pound", "currency_country": "Lebanon"},
+    "LKR": {
+        "currency_name": "sri lankan rupee",
+        "currency_country": "Sri Lanka"
+    },
+    "LRD": {"currency_name": "liberian dollar", "currency_country": "Liberia"},
+    "LSL": {"currency_name": "lesotho loti", "currency_country": "Lesotho"},
+    "LYD": {"currency_name": "libyan dinar", "currency_country": "Libya"},
+    "MAD": {
+        "currency_name": "moroccan dirham",
+        "currency_country": "Morocco,  Western Sahara"
+    },
+    "MDL": {"currency_name": "moldovan leu", "currency_country": "Moldova"},
+    "MGA": {
+        "currency_name": "malagasy ariary",
+        "currency_country": "Madagascar"
+    },
+    "MKD": {
+        "currency_name": "macedonian denar",
+        "currency_country": "North Macedonia"
+    },
+    "MMK": {"currency_name": "myanmar kyat", "currency_country": "Myanmar"},
+    "MNT": {
+        "currency_name": "mongolian tögrög",
+        "currency_country": "Mongolia"
+    },
+    "MOP": {"currency_name": "macanese pataca", "currency_country": "Macau"},
+    "MRU[11]": {
+        "currency_name": "mauritanian ouguiya",
+        "currency_country": "Mauritania"
+    },
+    "MUR": {
+        "currency_name": "mauritian rupee",
+        "currency_country": "Mauritius"
+    },
+    "MVR": {
+        "currency_name": "maldivian rufiyaa",
+        "currency_country": "Maldives"
+    },
+    "MWK": {"currency_name": "malawian kwacha", "currency_country": "Malawi"},
+    "MXN": {"currency_name": "mexican peso", "currency_country": "Mexico"},
+    "MXV": {
+        "currency_name": "mexican unidad de inversion (udi) (funds code)",
+        "currency_country": "Mexico"
+    },
+    "MYR": {
+        "currency_name": "malaysian ringgit",
+        "currency_country": "Malaysia"
+    },
+    "MZN": {
+        "currency_name": "mozambican metical",
+        "currency_country": "Mozambique"
+    },
+    "NAD": {"currency_name": "namibian dollar", "currency_country": "Namibia"},
+    "NGN": {"currency_name": "nigerian naira", "currency_country": "Nigeria"},
+    "NIO": {
+        "currency_name": "nicaraguan córdoba",
+        "currency_country": "Nicaragua"
+    },
+    "NOK": {
+        "currency_name": "norwegian krone",
+        "currency_country": "Norway,  Svalbard and  Jan Mayen (SJ),  Bouvet Island (BV)"
+    },
+    "NPR": {"currency_name": "nepalese rupee", "currency_country": "Nepal"},
+    "NZD": {
+        "currency_name": "new zealand dollar",
+        "currency_country": "New Zealand,  Cook Islands (CK),  Niue (NU),  Pitcairn Islands (PN; see also Pitcairn Islands dollar),  Tokelau (TK)"
+    },
+    "OMR": {"currency_name": "omani rial", "currency_country": "Oman"},
+    "PAB": {"currency_name": "panamanian balboa", "currency_country": "Panama"},
+    "PEN": {"currency_name": "peruvian sol", "currency_country": "Peru"},
+    "PGK": {
+        "currency_name": "papua new guinean kina",
+        "currency_country": "Papua New Guinea"
+    },
+    "PHP": {
+        "currency_name": "philippine peso[12]",
+        "currency_country": "Philippines"
+    },
+    "PKR": {"currency_name": "pakistani rupee", "currency_country": "Pakistan"},
+    "PLN": {"currency_name": "polish złoty", "currency_country": "Poland"},
+    "PYG": {
+        "currency_name": "paraguayan guaraní",
+        "currency_country": "Paraguay"
+    },
+    "QAR": {"currency_name": "qatari riyal", "currency_country": "Qatar"},
+    "RON": {"currency_name": "romanian leu", "currency_country": "Romania"},
+    "RSD": {"currency_name": "serbian dinar", "currency_country": "Serbia"},
+    "RUB": {"currency_name": "russian ruble", "currency_country": "Russia"},
+    "RWF": {"currency_name": "rwandan franc", "currency_country": "Rwanda"},
+    "SAR": {"currency_name": "saudi riyal", "currency_country": "Saudi Arabia"},
+    "SBD": {
+        "currency_name": "solomon islands dollar",
+        "currency_country": "Solomon Islands"
+    },
+    "SCR": {
+        "currency_name": "seychelles rupee",
+        "currency_country": "Seychelles"
+    },
+    "SDG": {"currency_name": "sudanese pound", "currency_country": "Sudan"},
+    "SEK": {
+        "currency_name": "swedish krona/kronor",
+        "currency_country": "Sweden"
+    },
+    "SGD": {
+        "currency_name": "singapore dollar",
+        "currency_country": "Singapore"
+    },
+    "SHP": {
+        "currency_name": "saint helena pound",
+        "currency_country": "Saint Helena (SH-SH),  Ascension Island (SH-AC),  Tristan da Cunha"
+    },
+    "SLL": {
+        "currency_name": "sierra leonean leone",
+        "currency_country": "Sierra Leone"
+    },
+    "SOS": {"currency_name": "somali shilling", "currency_country": "Somalia"},
+    "SRD": {
+        "currency_name": "surinamese dollar",
+        "currency_country": "Suriname"
+    },
+    "SSP": {
+        "currency_name": "south sudanese pound",
+        "currency_country": "South Sudan"
+    },
+    "STN[13]": {
+        "currency_name": "são tomé and príncipe dobra",
+        "currency_country": "São Tomé and Príncipe"
+    },
+    "SVC": {
+        "currency_name": "salvadoran colón",
+        "currency_country": "El Salvador"
+    },
+    "SYP": {"currency_name": "syrian pound", "currency_country": "Syria"},
+    "SZL": {
+        "currency_name": "swazi lilangeni",
+        "currency_country": "Eswatini[12]"
+    },
+    "THB": {"currency_name": "thai baht", "currency_country": "Thailand"},
+    "TJS": {
+        "currency_name": "tajikistani somoni",
+        "currency_country": "Tajikistan"
+    },
+    "TMT": {
+        "currency_name": "turkmenistan manat",
+        "currency_country": "Turkmenistan"
+    },
+    "TND": {"currency_name": "tunisian dinar", "currency_country": "Tunisia"},
+    "TOP": {"currency_name": "tongan paʻanga", "currency_country": "Tonga"},
+    "TRY": {"currency_name": "turkish lira", "currency_country": "Turkey"},
+    "TTD": {
+        "currency_name": "trinidad and tobago dollar",
+        "currency_country": "Trinidad and Tobago"
+    },
+    "TWD": {"currency_name": "new taiwan dollar", "currency_country": "Taiwan"},
+    "TZS": {
+        "currency_name": "tanzanian shilling",
+        "currency_country": "Tanzania"
+    },
+    "UAH": {
+        "currency_name": "ukrainian hryvnia",
+        "currency_country": "Ukraine"
+    },
+    "UGX": {"currency_name": "ugandan shilling", "currency_country": "Uganda"},
+    "USD": {
+        "currency_name": "united states dollar",
+        "currency_country": "United States,  American Samoa (AS),  British Indian Ocean Territory (IO) (also uses GBP),  British Virgin Islands (VG),  Caribbean Netherlands (BQ – Bonaire, Sint Eustatius and Saba),  Ecuador (EC),  El Salvador (SV),  Guam (GU),  Haiti (HT),  Marshall Islands (MH),  Federated States of Micronesia (FM),  Northern Mariana Islands (MP),  Palau (PW),  Panama (PA) (as well as Panamanian Balboa),  Puerto Rico (PR),  Timor-Leste (TL),  Turks and Caicos Islands (TC),  U.S. Virgin Islands (VI),  United States Minor Outlying Islands (UM)"
+    },
+    "USN": {
+        "currency_name": "united states dollar (next day) (funds code)",
+        "currency_country": "United States"
+    },
+    "UYI": {
+        "currency_name": "uruguay peso en unidades indexadas (uruiurui) (funds code)",
+        "currency_country": "Uruguay"
+    },
+    "UYU": {"currency_name": "uruguayan peso", "currency_country": "Uruguay"},
+    "UYW": {
+        "currency_name": "unidad previsional[14]",
+        "currency_country": "Uruguay"
+    },
+    "UZS": {
+        "currency_name": "uzbekistan som",
+        "currency_country": "Uzbekistan"
+    },
+    "VES": {
+        "currency_name": "venezuelan bolívar soberano[12]",
+        "currency_country": "Venezuela"
+    },
+    "VND": {"currency_name": "vietnamese đồng", "currency_country": "Vietnam"},
+    "VUV": {"currency_name": "vanuatu vatu", "currency_country": "Vanuatu"},
+    "WST": {"currency_name": "samoan tala", "currency_country": "Samoa"},
+    "XAF": {
+        "currency_name": "cfa franc beac",
+        "currency_country": "Cameroon (CM),  Central African Republic (CF),  Republic of the Congo (CG),  Chad (TD),  Equatorial Guinea (GQ),  Gabon (GA)"
+    },
+    "XAG": {"currency_name": "silver (one troy ounce)", "currency_country": ""},
+    "XAU": {"currency_name": "gold (one troy ounce)", "currency_country": ""},
+    "XBA": {
+        "currency_name": "european composite unit (eurco) (bond market unit)",
+        "currency_country": ""
+    },
+    "XBB": {
+        "currency_name": "european monetary unit (e.m.u.-6) (bond market unit)",
+        "currency_country": ""
+    },
+    "XBC": {
+        "currency_name": "european unit of account 9 (e.u.a.-9) (bond market unit)",
+        "currency_country": ""
+    },
+    "XBD": {
+        "currency_name": "european unit of account 17 (e.u.a.-17) (bond market unit)",
+        "currency_country": ""
+    },
+    "XCD": {
+        "currency_name": "east caribbean dollar",
+        "currency_country": "Anguilla (AI),  Antigua and Barbuda (AG),  Dominica (DM),  Grenada (GD),  Montserrat (MS),  Saint Kitts and Nevis (KN),  Saint Lucia (LC),  Saint Vincent and the Grenadines (VC)"
+    },
+    "XDR": {
+        "currency_name": "special drawing rights",
+        "currency_country": "International Monetary Fund"
+    },
+    "XOF": {
+        "currency_name": "cfa franc bceao",
+        "currency_country": "Benin (BJ),  Burkina Faso (BF),  Côte d'Ivoire (CI),  Guinea-Bissau (GW),  Mali (ML),  Niger (NE),  Senegal (SN),  Togo (TG)"
+    },
+    "XPD": {
+        "currency_name": "palladium (one troy ounce)",
+        "currency_country": ""
+    },
+    "XPF": {
+        "currency_name": "cfp franc (franc pacifique)",
+        "currency_country": "French territories of the Pacific Ocean:  French Polynesia (PF),  New Caledonia (NC),  Wallis and Futuna (WF)"
+    },
+    "XPT": {
+        "currency_name": "platinum (one troy ounce)",
+        "currency_country": ""
+    },
+    "XSU": {
+        "currency_name": "sucre",
+        "currency_country": "Unified System for Regional Compensation (SUCRE)[15]"
+    },
+    "XTS": {
+        "currency_name": "code reserved for testing",
+        "currency_country": ""
+    },
+    "XUA": {
+        "currency_name": "adb unit of account",
+        "currency_country": "African Development Bank[16]"
+    },
+    "XXX": {"currency_name": "no currency", "currency_country": ""},
+    "YER": {"currency_name": "yemeni rial", "currency_country": "Yemen"},
+    "ZAR": {
+        "currency_name": "south african rand",
+        "currency_country": "Lesotho,  Namibia,  South Africa"
+    },
+    "ZMW": {"currency_name": "zambian kwacha", "currency_country": "Zambia"},
+    "ZWL": {"currency_name": "zimbabwean dollar", "currency_country": "Zimbabw"}
+}
