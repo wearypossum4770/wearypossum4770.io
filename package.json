@@ -1,0 +1,69 @@
+{
+  "name": "wearypossum4770",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://github.com/wearypossum4770/wearypossum4770.io#readme",
+  "description": "Stephen's Learning Page",
+  "main": "test_web_script.test.js",
+  "author": "stephen smith",
+  "license": "ISC",
+  "keywords": [
+    "wearypossum4770",
+    "dev"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearypossum4770/wearypossum4770.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wearypossum4770/wearypossum4770.io/issues"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "bootstrap": "^4.5.2",
+    "chart.js": "^2.9.3",
+    "copyfiles": "^2.3.0",
+    "cuid": "^2.1.8",
+    "gh-pages": "^3.1.0",
+    "grommet": "^2.14.0",
+    "grommet-icons": "^4.4.0",
+    "lint-staged": "^10.2.11",
+    "moment": "^2.27.0",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1",
+    "react-chartjs-2": "^2.10.0",
+    "react-router-dom": "^5.2.0",
+    "react-table": "^7.5.0",
+    "styled-components": "^5.1.1"
+  }
+}
